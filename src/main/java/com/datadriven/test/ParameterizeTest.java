@@ -1,5 +1,7 @@
 /*Working fine
+
 * This is called Data Driven Approach -- used to create Data Driven framework
+* Data driven Approach means -- Driving the data from Excel or other files. Also called Parametrisation. 
 */
 
 package com.datadriven.test;
